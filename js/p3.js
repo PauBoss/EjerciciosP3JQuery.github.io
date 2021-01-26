@@ -1,3 +1,6 @@
+/**
+* He definido una función que se encargará de atribuir los estilos a los elementos seleccionados.
+**/
 $( function ( ) {
 
 	$( 'tr:nth-child(odd)' )
